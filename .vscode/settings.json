@@ -1,0 +1,5 @@
+{
+    "files.exclude": {
+        "**/data.min.json (official archive)": true
+    }
+}
